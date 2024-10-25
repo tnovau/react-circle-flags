@@ -23,7 +23,7 @@
     "lint": "eslint src/**/*.js docs/**/*.js"
   },
   "peerDependencies": {
-    "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
+    "react": "^16.0.0 || 17.x || 18.x || 19.x"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
